@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "张三",
+    "email": "zhangsan@test.com",
+    "phone": "13800138001",
+    "password": "123456",
+    "createdAt": "2026-01-15T08:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "李四",
+    "email": "lisi@test.com",
+    "phone": "13800138002",
+    "password": "123456",
+    "createdAt": "2026-03-20T10:30:00.000Z"
+  }
+]
