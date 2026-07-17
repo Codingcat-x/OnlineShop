@@ -1,6 +1,6 @@
 <template>
   <div>
-    <HomeClassifyNav class="mb-3"/>
+    <HomeClassifyNav class="mb-1"/>
     <div class="row g-3 carousel-container">
       <div class="col-2">
         <HomeTypeList/>
@@ -19,7 +19,7 @@
 import HomeClassifyNav from './HomeClassifyNav.vue'
 import HomeTypeList from './HomeTypeList.vue'
 import HomeCarousel from './HomeCarousel.vue'
-import HomeFunctionCard from './HomeFunctionCard.vue'
+import HomeFunctionCard from './HomeUserCard.vue'
 
 export default {
   name: 'HomeView',

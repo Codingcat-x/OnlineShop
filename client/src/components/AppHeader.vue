@@ -58,11 +58,10 @@
         </div>
       </div>
     </nav>
-    
-    <div class="search-box container text-center my-3">
+    <div class="search-box container text-center mt-3">
       <div class="row align-items-center">
         <div class="col-3">
-          <a class="web-title d-felx" href="/">
+          <a class="web-title d-felx align-item-center" href="/">
             <img src="../assets/webLogo.png" class="web-logo">
             <h5 class="title-box">
               <div class="title">Online Shop</div>
@@ -70,8 +69,8 @@
             </h5>
           </a>
         </div>
-        <div class="col-6">
-          <div class="input-group mb-3">
+        <div class="col-6 align-items-center">
+          <div class="input-group">
             <button class="switch-searchType-btn btn btn-outline-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">{{ searchType ? '找商品' : '找店铺' }}</button>
             <ul class="dropdown-menu">
               <li><a class="dropdown-item" @click="searchType=true">找商品</a></li>

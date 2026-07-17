@@ -1,18 +1,5 @@
 <template>
   <div class="card">
-    <!-- <div class="card-header"><b>分类浏览</b></div> -->
-    <!-- <ul class="list-group">
-      <li class="list-group-item">电脑 / 配件 / 办公 / 文具</li>
-      <li class="list-group-item">家电 / 手机 / 通信 / 数码</li>
-      <li class="list-group-item">工业品 / 商业 / 农业 / 定制</li>
-      <li class="list-group-item">家具 / 家装 / 家居 / 厨具</li>
-      <li class="list-group-item">女装 / 男装 / 内衣 / 配饰</li>
-      <li class="list-group-item">女鞋 / 男鞋 / 运动 / 户外</li>
-      <li class="list-group-item">汽车 / 珠宝 / 文玩 / 箱包</li>
-      <li class="list-group-item">食品 / 鲜花 / 酒水 / 健康</li>
-      <li class="list-group-item">母婴 / 童装 / 玩具 / 宠物</li>
-      <li class="list-group-item">美妆 / 个护 / 娱乐 / 图书</li>
-    </ul> -->
     <ul class="list-group">
       <li class="list-group-item d-flex justify-content-between align-items-center">
         <span class="d-flex align-items-center">

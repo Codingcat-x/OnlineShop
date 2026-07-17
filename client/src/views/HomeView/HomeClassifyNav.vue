@@ -32,9 +32,18 @@
 
 <script>
 export default {
-  name: 'HomeNavber'
+  name: 'HomeClassifyNav'
 }
 </script>
 
 <style scoped>
+.nav-link {
+  font-size: 16px;
+  color: var(--bs-danger);
+  font-weight: 600;
+  cursor: pointer;
+}
+.nav-link.active {
+  border-bottom: 6px solid var(--bs-danger);
+}
 </style>
