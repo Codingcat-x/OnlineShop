@@ -54,7 +54,7 @@ export default {
 
 <style scoped>
 .card {
-  height: 100%;
+  height: 400px;
   padding: 12px;
   display: flex;
   gap: 8px
@@ -67,6 +67,7 @@ export default {
     .bi {
       display: block;
       font-size: 25px;
+      color: var(--bs-danger-color);
     }
   }
 }

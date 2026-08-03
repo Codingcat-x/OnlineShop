@@ -1,0 +1,201 @@
+{
+  "category": [
+    {"name": "手机", "ico": ""},
+    {"name": "电脑", "ico": ""},
+    {"name": "女装", "ico": ""},
+    {"name": "男装", "ico": ""},
+    {"name": "手办", "ico": ""},
+    {"name": "手机壳", "ico": ""},
+    {"name": "文具", "ico": ""},
+    {"name": "绿植", "ico": ""},
+    {"name": "空调", "ico": ""}
+  ],
+  "goods": [
+    {
+      "id": 1,
+      "imgUrl": "/images/goods/vivo_x200s.jpg",
+      "name": "vivo X200s 12GB+256GB 淡紫 国家补贴 蔡司超级潜望长焦 湿手秒开超声波指纹 拍照 AI手机",
+      "price": 3099,
+      "tags": [
+        {
+          "name": "自营",
+          "color": "red"
+        },
+        {
+          "name": "顺丰包邮",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "imgUrl": "/images/goods/vivo-x300u.jpg",
+      "name": "vivo X300 Ultra 16GB+512G胶片绿 蔡司大师镜头群 全焦段4K 120fps 拍照 AI手机【京东快递】",
+      "price": 7299,
+      "tags": [
+        {
+          "name": "自营",
+          "color": "red"
+        },
+        {
+          "name": "顺丰包邮",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "imgUrl": "/images/goods/jk.jpg",
+      "name": "制服小V收腰短袖衬衫原创修身白衬衣原创格裙套装",
+      "price": 39,
+      "tags": []
+    },
+    {
+      "id": 4,
+      "imgUrl": "/images/goods/honor-x14r.jpg",
+      "name": "X14锐龙版2026 锐龙R5-6600H 高性能处理器 高清护眼屏长续航轻薄",
+      "price": 4999.00,
+      "tags": []
+    },
+    {
+      "id": 5,
+      "imgUrl": "/images/goods/dangaoqun.jpg",
+      "name": "韩都衣舍白色蛋糕裙短裙女2026新款春夏季高腰拼接a字蓬蓬半身裙",
+      "price": 17.99,
+      "tags": []
+    },
+    {
+      "id": 6,
+      "imgUrl": "/images/goods/iphone17.jpg",
+      "name": "Apple/苹果 iPhone 17",
+      "price": 6999,
+      "tags": [
+        {
+          "name": "顺丰包邮",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "imgUrl": "/images/goods/niuzaiku.jpg",
+      "name": "天丝直筒牛仔裤女夏季薄款宽松大码胖mm松紧腰小个子冰丝阔腿裤子",
+      "price": 59,
+      "tags": []
+    },
+    {
+      "id": 8,
+      "imgUrl": "/images/goods/bodianshaqun.jpg",
+      "name": "粉色芭蕾风波点纱裙半身裙套装女夏2026新款荷叶边蓬蓬短裙一整套",
+      "price": 52,
+      "tags": []
+    },
+    {
+      "id": 9,
+      "imgUrl": "/images/goods/tshirt.jpg",
+      "name": "纯欲碎花短袖t恤女夏季假两件修身显瘦小清新甜辣春秋打底衫上衣",
+      "price": 19,
+      "tags": []
+    },
+    {
+      "id": 10,
+      "imgUrl": "/images/goods/zhijin.jpg",
+      "name": "一分钱包抽实惠家用商用一纸巾抽纸餐巾QKZ纸生纸纸卫",
+      "price": 1.41,
+      "tags": []
+    },
+      {
+      "id": 1,
+      "imgUrl": "/images/goods/vivo_x200s.jpg",
+      "name": "vivo X200s 12GB+256GB 淡紫 国家补贴 蔡司超级潜望长焦 湿手秒开超声波指纹 拍照 AI手机",
+      "price": 3099,
+      "tags": [
+        {
+          "name": "自营",
+          "color": "red"
+        },
+        {
+          "name": "顺丰包邮",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "imgUrl": "/images/goods/vivo-x300u.jpg",
+      "name": "vivo X300 Ultra 16GB+512G胶片绿 蔡司大师镜头群 全焦段4K 120fps 拍照 AI手机【京东快递】",
+      "price": 7299,
+      "tags": [
+        {
+          "name": "自营",
+          "color": "red"
+        },
+        {
+          "name": "顺丰包邮",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "imgUrl": "/images/goods/jk.jpg",
+      "name": "制服小V收腰短袖衬衫原创修身白衬衣原创格裙套装",
+      "price": 39,
+      "tags": []
+    },
+    {
+      "id": 4,
+      "imgUrl": "/images/goods/honor-x14r.jpg",
+      "name": "X14锐龙版2026 锐龙R5-6600H 高性能处理器 高清护眼屏长续航轻薄",
+      "price": 4999.00,
+      "tags": []
+    },
+    {
+      "id": 5,
+      "imgUrl": "/images/goods/dangaoqun.jpg",
+      "name": "韩都衣舍白色蛋糕裙短裙女2026新款春夏季高腰拼接a字蓬蓬半身裙",
+      "price": 17.99,
+      "tags": []
+    },
+    {
+      "id": 6,
+      "imgUrl": "/images/goods/iphone17.jpg",
+      "name": "Apple/苹果 iPhone 17",
+      "price": 6999,
+      "tags": [
+        {
+          "name": "顺丰包邮",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "imgUrl": "/images/goods/niuzaiku.jpg",
+      "name": "天丝直筒牛仔裤女夏季薄款宽松大码胖mm松紧腰小个子冰丝阔腿裤子",
+      "price": 59,
+      "tags": []
+    },
+    {
+      "id": 8,
+      "imgUrl": "/images/goods/bodianshaqun.jpg",
+      "name": "粉色芭蕾风波点纱裙半身裙套装女夏2026新款荷叶边蓬蓬短裙一整套",
+      "price": 52,
+      "tags": []
+    },
+    {
+      "id": 9,
+      "imgUrl": "/images/goods/tshirt.jpg",
+      "name": "纯欲碎花短袖t恤女夏季假两件修身显瘦小清新甜辣春秋打底衫上衣",
+      "price": 19,
+      "tags": []
+    },
+    {
+      "id": 10,
+      "imgUrl": "/images/goods/zhijin.jpg",
+      "name": "一分钱包抽实惠家用商用一纸巾抽纸餐巾QKZ纸生纸纸卫",
+      "price": 1.41,
+      "tags": []
+    }
+  ]
+}

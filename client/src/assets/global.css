@@ -1,0 +1,25 @@
+:root {
+  --primary-color: #222;
+}
+/* 主题色自定义块已还原 —— 使用 Bootstrap 默认主题色 */
+[data-bs-theme="dark"] {
+  --bs-secondary-bg: #343a40;
+  /* 深色模式下同步覆盖 */
+}
+[data-bs-theme="dark"] body {
+  background-color: #343a40;
+}
+/* 全局 body 样式 — 与 data-bs-theme 联动 */
+body {
+  background-color: #f1f3f5;  
+  /* color: var(--bs-secondary-color); */
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* 所有 card 使用 secondary 背景色 */
+.card {
+  border: none;
+}
+.list-group-item {
+  background-color: transparent;
+}

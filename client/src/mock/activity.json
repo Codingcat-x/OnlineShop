@@ -1,0 +1,27 @@
+[
+        {
+          "title": "秒杀",
+          "content": [
+            {"image": "/images/activity/miaosha-1.png", "url": "#", "price": 20.9},
+            {"image": "/images/activity/miaosha-2.png", "url": "#", "price": 13.9}
+          ]
+        }, {
+          "title": "9.9 包邮",
+          "content": [
+            {"image": "/images/activity/baoyou-1.png", "url": "#", "price": 14.9},
+            {"image": "/images/activity/baoyou-2.png", "url": "#", "price": 2.58}
+          ]
+        }, {
+          "title": "国家补贴",
+          "content": [
+            {"image": "/images/activity/butie-1.png", "url": "#", "price": 1349.1, "discount": 0.88},
+            {"image": "/images/activity/butie-2.png", "url": "#", "price": 4249.15, "discount": 0.88}
+          ]
+        }, {
+          "title": "平台优惠",
+          "content": [
+            {"image": "/images/activity/youhui-1.png", "url": "#", "price": 1499},
+            {"image": "/images/activity/youhui-2.png", "url": "#", "price": 588}
+          ]
+        }
+      ]
