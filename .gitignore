@@ -2,6 +2,9 @@ node_modules
 /dist
 .DS_Store
 
+# server (仅保留 client)
+server/
+
 # local env files
 .env.local
 .env.*.local
